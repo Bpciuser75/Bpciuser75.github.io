@@ -10,6 +10,9 @@
 //* as before, paste your lnk below
 let URL = "https://teachablemachine.withgoogle.com/models/CMBhs4EAW/";
 
+https://teachablemachine.withgoogle.com/models/[...]
+
+
 
 
 
