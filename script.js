@@ -1,4 +1,4 @@
-
+9
 /**
  * Pose Detection Application
  * Using TensorFlow.js and Teachable Machine
@@ -8,7 +8,7 @@
 // Model URL from Teachable Machine
 //**************************************************
 //* as before, paste your lnk below
-let URL = "https://teachablemachine.withgoogle.com/models/rHp1OWhyj/";
+let URL = "https://teachablemachine.withgoogle.com/models/NB1P7AbSb//";
 
 
 
@@ -234,7 +234,7 @@ async function playInstructionVideo() {
     if (model) {
         processFrame();
     } else {
-        console.log("https://teachablemachine.withgoogle.com/models/rHp1OWhyj/");
+        console.log("https://teachablemachine.withgoogle.com/models/NB1P7AbSb//");
     }
 }
 
